@@ -1,0 +1,9 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.router-link-exact-active {
+  @apply bg-purple-700
+}
